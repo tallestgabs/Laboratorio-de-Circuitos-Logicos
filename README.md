@@ -1,2 +1,2 @@
 # Laboratorio de Circuitos Logicos
- Relatórios dos experimentos realizados na matéria de LCL
+ Relatórios LATEX dos experimentos realizados na matéria de LCL
